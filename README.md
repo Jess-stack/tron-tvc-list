@@ -1,4 +1,4 @@
-# Adding new token
+<img width="456" height="456" alt="1000021968" src="https://github.com/user-attachments/assets/ee940757-03cb-46e1-ba98-010fca716a52" /># Adding new token
 The JSON schema for the tokens includes: address, name, decimals, symbol, logoURI, official homepage, MarketCap link, existing Markets.
 
 Follow the steps below to add a new token：
